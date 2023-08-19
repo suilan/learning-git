@@ -47,7 +47,7 @@ $ ls
 git
 ```
 
-### Clonning repository quietly
+### Clonning repository with progress messages
 You can use *-v* or *--verbose* to see every step of the progress.
 
 ``` bash
