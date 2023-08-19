@@ -5,7 +5,7 @@ Repo with quick tips and examples to git's commands.
 
 1 - Start a working area: 
 
-- [git clone](./commands/git-clone.md) - Clone a repository into a new directory (see also: git help tutorial)
+- [git clone](./commands/git-clone/README.md) - Clone a repository into a new directory (see also: git help tutorial)
 - git init - Create an empty Git repository or reinitialize an existing one
 
 1 - Work on the current change (see also: git help everyday)
