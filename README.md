@@ -1,4 +1,6 @@
 # Learning Git
+Link: https://git-scm.com/docs.
+
 Repo with quick tips and examples to git's commands.
 
 1 - Start a working area: 
