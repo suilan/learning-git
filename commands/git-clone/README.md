@@ -1,8 +1,12 @@
-# Learning Git
-Link: https://git-scm.com/docs. 
+<h1>
+     <img align="center" width="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></a>
+    <span> Learning Git</span>
+</h1>
+
+Doc Link: https://git-scm.com/docs. 
 
 ## Clonning Tips
-Link: https://git-scm.com/docs/git-clone.
+Doc Link: https://git-scm.com/docs/git-clone.
 
 When you clone a repository, you get files and history from a remote repository to a new folder in the current directory that you're working on.
 
