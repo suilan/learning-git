@@ -67,7 +67,7 @@ Receiving objects: 100% (8/8), done.
 ```
 
 
-### Clonning specific branch from repository
+### Clone a specific branch from repository
 When you clone a repository, the default branch is the "main". But sometimes, you want to start on a specific feature/branch. Why? Project is too big, different application, different release, etc.
 
 ``` bash
