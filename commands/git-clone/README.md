@@ -5,12 +5,12 @@
 
 Doc Link: https://git-scm.com/docs. 
 
-## Clonning Tips
+## Clone Tips
 Doc Link: https://git-scm.com/docs/git-clone.
 
 When you clone a repository, you get files and history from a remote repository to a new folder in the current directory that you're working on.
 
-### Simple Clonning
+### Simple Clone (default)
 Plain and simple clone repository to the current folder. This command will create a new folder called **learning-git/** at your pc.
 
 ``` bash
@@ -25,7 +25,7 @@ learning-git
 
 ```
 
-### Clonning repository with another name
+### Clone repository with another name
 Sometimes, when we clone an repository, we need to rename it.
 
 
@@ -42,7 +42,7 @@ $ ls
 git
 ```
 
-### Clonning repository quietly
+### Clone repository quietly
 You can use *-q* or *--quietly* to hide progress. If there is an error, the terminal will show it.
 
 ``` bash
@@ -51,7 +51,7 @@ $ ls
 git
 ```
 
-### Clonning repository with progress messages
+### Clone repository with progress messages
 You can use *-v* or *--verbose* to see every step of the progress.
 
 ``` bash
